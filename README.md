@@ -23,7 +23,7 @@ A passionate student working on **full-stack AI applications** and **Machine Lea
 
 - 🌱 I'm currently learning **Artificial Intelligence, Deep Learning, LLMs & RAG Systems**
 - 📫 How to reach me **pramodkumarmarri711@gmail.com**
-- ⚡ Fun fact **localhost:a place where dreams come true** 🤖
+- ⚡ Fun fact :- **localhost : - a place where dreams come true ,until production** 🤖
 
 ---
 
