@@ -22,8 +22,6 @@
 A passionate student working on **full-stack AI applications** and **Machine Learning projects**.
 
 - 🌱 I'm currently learning **Artificial Intelligence, Deep Learning, LLMs & RAG Systems**
-- 💼 Interned at **EduSkills Foundation, Blackbucks Engineers, Henotic Technologies**
-- 🎓 **B.Tech in AI & ML** from SRKREC, Bhimavaram | **CGPA: 8.4/10.0**
 - 📫 How to reach me **pramodkumarmarri711@gmail.com**
 - ⚡ Fun fact **localhost:a place where dreams come true** 🤖
 
